@@ -1,0 +1,3264 @@
+[
+  {
+    "index": 0,
+    "start_time": 12.75,
+    "end_time": 14.89,
+    "label": "S01",
+    "text": "嗯，注点这块还能问哪个老师啊？"
+  },
+  {
+    "index": 1,
+    "start_time": 15.92,
+    "end_time": 17.11,
+    "label": "S01",
+    "text": "注点的这块东西。"
+  },
+  {
+    "index": 2,
+    "start_time": 17.81,
+    "end_time": 19.97,
+    "label": "S02",
+    "text": "注点的就光它外围的，注点的。"
+  },
+  {
+    "index": 3,
+    "start_time": 20.42,
+    "end_time": 21.12,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 4,
+    "start_time": 21.77,
+    "end_time": 24.75,
+    "label": "S01",
+    "text": "哦，现在就现在就哦，现在暂时问不了是吧，注点这块。"
+  },
+  {
+    "index": 5,
+    "start_time": 24.44,
+    "end_time": 26.48,
+    "label": "S02",
+    "text": "一点不在我们这儿，离我们这儿远。"
+  },
+  {
+    "index": 6,
+    "start_time": 26.84,
+    "end_time": 27.22,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 7,
+    "start_time": 29.41,
+    "end_time": 30.41,
+    "label": "S01",
+    "text": "好的好的好的。"
+  },
+  {
+    "index": 8,
+    "start_time": 31.38,
+    "end_time": 33.91,
+    "label": "S01",
+    "text": "我再看一下这个合同范围。"
+  },
+  {
+    "index": 9,
+    "start_time": 43.04,
+    "end_time": 48.41,
+    "label": "S01",
+    "text": "我们这边订单会有需要找我们要那个临时优惠吗？还是说全部是按照正常价格来做。"
+  },
+  {
+    "index": 10,
+    "start_time": 49.72,
+    "end_time": 52.11,
+    "label": "S02",
+    "text": "全部按照这个价格做，没有优惠。"
+  },
+  {
+    "index": 11,
+    "start_time": 52.33,
+    "end_time": 53.21,
+    "label": "S01",
+    "text": "哦，好的。"
+  },
+  {
+    "index": 12,
+    "start_time": 54.64,
+    "end_time": 55.41,
+    "label": "S01",
+    "text": "存在。"
+  },
+  {
+    "index": 13,
+    "start_time": 60.92,
+    "end_time": 62.31,
+    "label": "S01",
+    "text": "然后这个算。"
+  },
+  {
+    "index": 14,
+    "start_time": 63.61,
+    "end_time": 64.41,
+    "label": "S01",
+    "text": "这个算的话。"
+  },
+  {
+    "index": 15,
+    "start_time": 66.78,
+    "end_time": 67.68,
+    "label": "S01",
+    "text": "夏经理。"
+  },
+  {
+    "index": 16,
+    "start_time": 68.58,
+    "end_time": 72.84,
+    "label": "S01",
+    "text": "夏经理确认好了之后。"
+  },
+  {
+    "index": 17,
+    "start_time": 73.88,
+    "end_time": 76.28,
+    "label": "S01",
+    "text": "之后费用费用。"
+  },
+  {
+    "index": 18,
+    "start_time": 77.44,
+    "end_time": 77.98,
+    "label": "S01",
+    "text": "就。"
+  },
+  {
+    "index": 19,
+    "start_time": 89.75,
+    "end_time": 90.31,
+    "label": "S01",
+    "text": "计算的。"
+  },
+  {
+    "index": 20,
+    "start_time": 95.71,
+    "end_time": 96.58,
+    "label": "S01",
+    "text": "哎，夏经理。"
+  },
+  {
+    "index": 21,
+    "start_time": 97.03,
+    "end_time": 100.01,
+    "label": "S01",
+    "text": "我们这边结算，结算这块是你在做吗？结算。"
+  },
+  {
+    "index": 22,
+    "start_time": 100.78,
+    "end_time": 105.28,
+    "label": "S02",
+    "text": "结算我们有人结算，就按照我这传票这个这结算。"
+  },
+  {
+    "index": 23,
+    "start_time": 105.57,
+    "end_time": 109.61,
+    "label": "S01",
+    "text": "哦，他基本上就是按照，比方说我们按照一定的时间。"
+  },
+  {
+    "index": 24,
+    "start_time": 109.88,
+    "end_time": 114.88,
+    "label": "S01",
+    "text": "呃，几个月之内几个月结算一次，然后把这个几个月的传票都给他记下来。"
+  },
+  {
+    "index": 25,
+    "start_time": 115.07,
+    "end_time": 119.78,
+    "label": "S01",
+    "text": "然后把这个合合计数量统计一下，然后给到家，给到那个学校那边是吧？"
+  },
+  {
+    "index": 26,
+    "start_time": 120.54,
+    "end_time": 123.41,
+    "label": "S02",
+    "text": "对，我们都是每月统计一次。"
+  },
+  {
+    "index": 27,
+    "start_time": 123.75,
+    "end_time": 125.08,
+    "label": "S01",
+    "text": "哦，每个月统计一次。"
+  },
+  {
+    "index": 28,
+    "start_time": 125.24,
+    "end_time": 129.91,
+    "label": "S02",
+    "text": "因为学校随时都要明细，我们就要给他发一张明细，看一看。"
+  },
+  {
+    "index": 29,
+    "start_time": 130.98,
+    "end_time": 136.08,
+    "label": "S01",
+    "text": "他们一般是按月要明细，还是说他按固定是还或者在按月是吧？"
+  },
+  {
+    "index": 30,
+    "start_time": 134.24,
+    "end_time": 139.18,
+    "label": "S02",
+    "text": "不是按月，有的时候他看看他花多少钱了，看看合同还差多少。"
+  },
+  {
+    "index": 31,
+    "start_time": 139.71,
+    "end_time": 140.34,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 32,
+    "start_time": 140.28,
+    "end_time": 141.41,
+    "label": "S02",
+    "text": "要控制一下量。"
+  },
+  {
+    "index": 33,
+    "start_time": 142.31,
+    "end_time": 142.91,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 34,
+    "start_time": 147.82,
+    "end_time": 151.88,
+    "label": "S01",
+    "text": "明细这一块的话，是是你在整理吗？"
+  },
+  {
+    "index": 35,
+    "start_time": 152.74,
+    "end_time": 153.81,
+    "label": "S02",
+    "text": "明细不是我。"
+  },
+  {
+    "index": 36,
+    "start_time": 154.98,
+    "end_time": 157.48,
+    "label": "S01",
+    "text": "哦，好的，明细的这块我等会要问一下。"
+  },
+  {
+    "index": 37,
+    "start_time": 158.68,
+    "end_time": 162.51,
+    "label": "S02",
+    "text": "哎呀，明细这个人儿没在，她丈夫有病了，请假了。"
+  },
+  {
+    "index": 38,
+    "start_time": 162.85,
+    "end_time": 166.58,
+    "label": "S02",
+    "text": "一时有有得挺长时间的，上不了班儿。"
+  },
+  {
+    "index": 39,
+    "start_time": 167.81,
+    "end_time": 170.01,
+    "label": "S01",
+    "text": "我回头再问吧，这个一时半会儿问不了。"
+  },
+  {
+    "index": 40,
+    "start_time": 170.48,
+    "end_time": 174.01,
+    "label": "S01",
+    "text": "他不在的话，我们这边明细到时候要要了，谁给他处理呀？"
+  },
+  {
+    "index": 41,
+    "start_time": 174.78,
+    "end_time": 177.88,
+    "label": "S02",
+    "text": "我们现在这找那啥呢，现在。"
+  },
+  {
+    "index": 42,
+    "start_time": 178.35,
+    "end_time": 182.01,
+    "label": "S02",
+    "text": "他没有那啥，他不是说总要，不是说经常要。"
+  },
+  {
+    "index": 43,
+    "start_time": 181.18,
+    "end_time": 181.68,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 44,
+    "start_time": 182.44,
+    "end_time": 183.11,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 45,
+    "start_time": 183.75,
+    "end_time": 186.61,
+    "label": "S02",
+    "text": "就差不多要快到合同期的时候，他会看。"
+  },
+  {
+    "index": 46,
+    "start_time": 187.31,
+    "end_time": 188.31,
+    "label": "S01",
+    "text": "哦，好的。"
+  },
+  {
+    "index": 47,
+    "start_time": 192.91,
+    "end_time": 193.61,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 48,
+    "start_time": 194.31,
+    "end_time": 197.61,
+    "label": "S01",
+    "text": "发票结算，一个结算，它是否可以产生发票。"
+  },
+  {
+    "index": 49,
+    "start_time": 199.51,
+    "end_time": 200.11,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 50,
+    "start_time": 202.08,
+    "end_time": 202.91,
+    "label": "S01",
+    "text": "回款。"
+  },
+  {
+    "index": 51,
+    "start_time": 203.78,
+    "end_time": 206.28,
+    "label": "S01",
+    "text": "回款一笔回款的那个发票。"
+  },
+  {
+    "index": 52,
+    "start_time": 208.68,
+    "end_time": 212.18,
+    "label": "S01",
+    "text": "发票这一块应该那个财务老师在处处理是吧，夏经理。"
+  },
+  {
+    "index": 53,
+    "start_time": 212.61,
+    "end_time": 213.98,
+    "label": "S02",
+    "text": "发票，对，是财务。"
+  },
+  {
+    "index": 54,
+    "start_time": 214.21,
+    "end_time": 216.68,
+    "label": "S01",
+    "text": "哦，财务现在不在，财务老师。"
+  },
+  {
+    "index": 55,
+    "start_time": 217.58,
+    "end_time": 224.58,
+    "label": "S01",
+    "text": "预付款，咱们这边还有那个有一个什么预付款的情况，就比方说我之前听那个晶晶老师说。"
+  },
+  {
+    "index": 56,
+    "start_time": 224.81,
+    "end_time": 227.81,
+    "label": "S01",
+    "text": "预付款的话，比方说这个合同，学校跟我们订合同。"
+  },
+  {
+    "index": 57,
+    "start_time": 228.01,
+    "end_time": 232.78,
+    "label": "S01",
+    "text": "然后定了二十万，然后他中间可能。"
+  },
+  {
+    "index": 58,
+    "start_time": 233.08,
+    "end_time": 237.88,
+    "label": "S01",
+    "text": "用完了，然后他们或者或者是没用完，他们又存了一些钱，有这种情况吗？"
+  },
+  {
+    "index": 59,
+    "start_time": 238.41,
+    "end_time": 238.91,
+    "label": "S02",
+    "text": "有。"
+  },
+  {
+    "index": 60,
+    "start_time": 240.31,
+    "end_time": 241.91,
+    "label": "S01",
+    "text": "这种情况的话，嗯。"
+  },
+  {
+    "index": 61,
+    "start_time": 240.48,
+    "end_time": 241.18,
+    "label": "S02",
+    "text": "有这种。"
+  },
+  {
+    "index": 62,
+    "start_time": 242.78,
+    "end_time": 245.61,
+    "label": "S01",
+    "text": "相当于一个时间内有两个合同了，是吧？"
+  },
+  {
+    "index": 63,
+    "start_time": 247.98,
+    "end_time": 250.81,
+    "label": "S02",
+    "text": "啊，不是不是有两个合同吗？"
+  },
+  {
+    "index": 64,
+    "start_time": 253.31,
+    "end_time": 253.98,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 65,
+    "start_time": 253.64,
+    "end_time": 259.11,
+    "label": "S02",
+    "text": "不能不能有两个合同，比如上个合同，他有有的钱没用了，没用完。"
+  },
+  {
+    "index": 66,
+    "start_time": 258.11,
+    "end_time": 258.58,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 67,
+    "start_time": 259.31,
+    "end_time": 261.68,
+    "label": "S02",
+    "text": "这十万剩两万，他要存在我这儿。"
+  },
+  {
+    "index": 68,
+    "start_time": 262.01,
+    "end_time": 266.78,
+    "label": "S02",
+    "text": "然后他就因为那个合同期到了，就重新签下个合同。"
+  },
+  {
+    "index": 69,
+    "start_time": 266.88,
+    "end_time": 270.61,
+    "label": "S02",
+    "text": "他把这两万要是存在我们这儿，我们就是我们就是。"
+  },
+  {
+    "index": 70,
+    "start_time": 271.01,
+    "end_time": 272.91,
+    "label": "S02",
+    "text": "就是给他放这里边儿。"
+  },
+  {
+    "index": 71,
+    "start_time": 273.28,
+    "end_time": 276.88,
+    "label": "S02",
+    "text": "然后下学期印的多了，可以补充一下。"
+  },
+  {
+    "index": 72,
+    "start_time": 278.88,
+    "end_time": 281.58,
+    "label": "S01",
+    "text": "哦，相当于其实合同是一学期一学期定的。"
+  },
+  {
+    "index": 73,
+    "start_time": 281.78,
+    "end_time": 286.98,
+    "label": "S01",
+    "text": "这个两万块钱呢，是上学期没用完，就放着放着，也不放到下个合同里边去，是吧？"
+  },
+  {
+    "index": 74,
+    "start_time": 287.28,
+    "end_time": 291.18,
+    "label": "S02",
+    "text": "不放的，合同跟他没有关系了，这个就结束之后，我们就。"
+  },
+  {
+    "index": 75,
+    "start_time": 291.68,
+    "end_time": 296.88,
+    "label": "S02",
+    "text": "下一个合同，如果下一年他要合同批的少，我们就可以用这个给他补充。"
+  },
+  {
+    "index": 76,
+    "start_time": 297.11,
+    "end_time": 299.68,
+    "label": "S02",
+    "text": "这两万块钱给他印完，再再那啥。"
+  },
+  {
+    "index": 77,
+    "start_time": 300.18,
+    "end_time": 300.88,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 78,
+    "start_time": 301.38,
+    "end_time": 306.48,
+    "label": "S01",
+    "text": "相当于这两块钱，两万块钱是属于一个临时的一个缓存的一个东西，对吧，它也不放在合同里。"
+  },
+  {
+    "index": 79,
+    "start_time": 304.41,
+    "end_time": 304.81,
+    "label": "S02",
+    "text": "有。"
+  },
+  {
+    "index": 80,
+    "start_time": 305.78,
+    "end_time": 306.58,
+    "label": "S02",
+    "text": "嗯，对。"
+  },
+  {
+    "index": 81,
+    "start_time": 307.11,
+    "end_time": 307.71,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 82,
+    "start_time": 307.68,
+    "end_time": 311.48,
+    "label": "S02",
+    "text": "是有这种情况，但是这跟这个做这个有关系吗？"
+  },
+  {
+    "index": 83,
+    "start_time": 312.01,
+    "end_time": 320.51,
+    "label": "S01",
+    "text": "我会，因为我后面需要对账的，他比方说他合同是十万，结果这个学期他印刷印了有十二万。"
+  },
+  {
+    "index": 84,
+    "start_time": 317.18,
+    "end_time": 317.68,
+    "label": "S02",
+    "text": "啊。"
+  },
+  {
+    "index": 85,
+    "start_time": 320.61,
+    "end_time": 326.01,
+    "label": "S01",
+    "text": "那我就要知道这两万块钱是到那个合同里，是在那个里面去，不然的话我们就账就对不起了。"
+  },
+  {
+    "index": 86,
+    "start_time": 320.91,
+    "end_time": 321.38,
+    "label": "S02",
+    "text": "啊。"
+  },
+  {
+    "index": 87,
+    "start_time": 326.81,
+    "end_time": 327.38,
+    "label": "S02",
+    "text": "啊。"
+  },
+  {
+    "index": 88,
+    "start_time": 328.21,
+    "end_time": 329.98,
+    "label": "S01",
+    "text": "所以说需要知道一下。"
+  },
+  {
+    "index": 89,
+    "start_time": 333.88,
+    "end_time": 335.08,
+    "label": "S01",
+    "text": "最终清算。"
+  },
+  {
+    "index": 90,
+    "start_time": 336.28,
+    "end_time": 339.71,
+    "label": "S01",
+    "text": "合同到期由谁发起最终清算。"
+  },
+  {
+    "index": 91,
+    "start_time": 340.81,
+    "end_time": 344.28,
+    "label": "S01",
+    "text": "嗯，这边合同到期了，我一般是什么流程呢？"
+  },
+  {
+    "index": 92,
+    "start_time": 345.31,
+    "end_time": 347.21,
+    "label": "S02",
+    "text": "合同到期我们就开发票啊。"
+  },
+  {
+    "index": 93,
+    "start_time": 347.61,
+    "end_time": 351.88,
+    "label": "S01",
+    "text": "哦，合同到期就是把我们，我们把那个传票拿过来。"
+  },
+  {
+    "index": 94,
+    "start_time": 352.71,
+    "end_time": 354.48,
+    "label": "S01",
+    "text": "整理一下，把发票开过去。"
+  },
+  {
+    "index": 95,
+    "start_time": 354.81,
+    "end_time": 357.88,
+    "label": "S01",
+    "text": "让他们根据发票给我们算那个钱，是吧？"
+  },
+  {
+    "index": 96,
+    "start_time": 354.88,
+    "end_time": 355.38,
+    "label": "S02",
+    "text": "嗯。"
+  },
+  {
+    "index": 97,
+    "start_time": 358.38,
+    "end_time": 358.88,
+    "label": "S02",
+    "text": "对。"
+  },
+  {
+    "index": 98,
+    "start_time": 359.98,
+    "end_time": 360.68,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 99,
+    "start_time": 360.91,
+    "end_time": 361.31,
+    "label": "S02",
+    "text": "对。"
+  },
+  {
+    "index": 100,
+    "start_time": 360.98,
+    "end_time": 366.21,
+    "label": "S01",
+    "text": "算钱之后，他们就把那个钱打过来，其实合同，合同刚开始建的时候是不给钱的，只是一个合同。"
+  },
+  {
+    "index": 101,
+    "start_time": 366.91,
+    "end_time": 367.41,
+    "label": "S02",
+    "text": "是。"
+  },
+  {
+    "index": 102,
+    "start_time": 367.81,
+    "end_time": 368.61,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 103,
+    "start_time": 371.91,
+    "end_time": 372.31,
+    "label": "S02",
+    "text": "放。"
+  },
+  {
+    "index": 104,
+    "start_time": 373.61,
+    "end_time": 374.48,
+    "label": "S01",
+    "text": "我等一下。"
+  },
+  {
+    "index": 105,
+    "start_time": 374.58,
+    "end_time": 376.91,
+    "label": "S03",
+    "text": "三五和八小，不是四小。"
+  },
+  {
+    "index": 106,
+    "start_time": 377.61,
+    "end_time": 378.18,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 107,
+    "start_time": 397.28,
+    "end_time": 398.81,
+    "label": "S01",
+    "text": "纸质稿扫描处理。"
+  },
+  {
+    "index": 108,
+    "start_time": 408.58,
+    "end_time": 410.88,
+    "label": "S01",
+    "text": "哦，还有一个那个，夏经理。"
+  },
+  {
+    "index": 109,
+    "start_time": 411.21,
+    "end_time": 411.71,
+    "label": "S02",
+    "text": "哎。"
+  },
+  {
+    "index": 110,
+    "start_time": 411.81,
+    "end_time": 416.68,
+    "label": "S01",
+    "text": "哎，咱们那个有有有的人过来，那个他们可能老师是纸质稿。"
+  },
+  {
+    "index": 111,
+    "start_time": 416.98,
+    "end_time": 419.61,
+    "label": "S01",
+    "text": "纸质稿的话，我们这边怎么给他们处理啊？"
+  },
+  {
+    "index": 112,
+    "start_time": 420.08,
+    "end_time": 420.98,
+    "label": "S01",
+    "text": "就是来来。"
+  },
+  {
+    "index": 113,
+    "start_time": 420.48,
+    "end_time": 425.11,
+    "label": "S02",
+    "text": "纸质稿就是手动的，我就是手工要编一下版，然后我就。"
+  },
+  {
+    "index": 114,
+    "start_time": 427.11,
+    "end_time": 428.61,
+    "label": "S02",
+    "text": "也是直接下传票。"
+  },
+  {
+    "index": 115,
+    "start_time": 429.18,
+    "end_time": 432.81,
+    "label": "S01",
+    "text": "哦，就是你手动的把这些信息填一下，然后下上传票。"
+  },
+  {
+    "index": 116,
+    "start_time": 433.38,
+    "end_time": 433.81,
+    "label": "S02",
+    "text": "对。"
+  },
+  {
+    "index": 117,
+    "start_time": 434.28,
+    "end_time": 436.71,
+    "label": "S01",
+    "text": "然后不需要扫描成电子版吗？嗯。"
+  },
+  {
+    "index": 118,
+    "start_time": 434.61,
+    "end_time": 435.98,
+    "label": "S02",
+    "text": "因为它有很多东西。"
+  },
+  {
+    "index": 119,
+    "start_time": 437.48,
+    "end_time": 439.01,
+    "label": "S02",
+    "text": "扫不了，它这个。"
+  },
+  {
+    "index": 120,
+    "start_time": 439.78,
+    "end_time": 441.71,
+    "label": "S02",
+    "text": "呃，纸质版的很多。"
+  },
+  {
+    "index": 121,
+    "start_time": 442.58,
+    "end_time": 443.08,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 122,
+    "start_time": 442.61,
+    "end_time": 446.21,
+    "label": "S02",
+    "text": "你要扫，就是花费的人工的，都老大个人工的。"
+  },
+  {
+    "index": 123,
+    "start_time": 447.41,
+    "end_time": 451.51,
+    "label": "S01",
+    "text": "电子版，因为因为因为因为太多了。"
+  },
+  {
+    "index": 124,
+    "start_time": 452.71,
+    "end_time": 453.68,
+    "label": "S01",
+    "text": "太多了。"
+  },
+  {
+    "index": 125,
+    "start_time": 454.28,
+    "end_time": 455.61,
+    "label": "S01",
+    "text": "消耗大量时间。"
+  },
+  {
+    "index": 126,
+    "start_time": 465.38,
+    "end_time": 467.81,
+    "label": "S01",
+    "text": "呃，看一下。"
+  },
+  {
+    "index": 127,
+    "start_time": 469.01,
+    "end_time": 470.78,
+    "label": "S01",
+    "text": "哪些情况不扫描。"
+  },
+  {
+    "index": 128,
+    "start_time": 472.21,
+    "end_time": 478.01,
+    "label": "S01",
+    "text": "不扫描纸质稿，但是我们实际上还要把这个相关的信息给它记录下来，然后形成传票，对吧？"
+  },
+  {
+    "index": 129,
+    "start_time": 479.31,
+    "end_time": 480.81,
+    "label": "S02",
+    "text": "对呀，嗯。"
+  },
+  {
+    "index": 130,
+    "start_time": 481.48,
+    "end_time": 483.38,
+    "label": "S02",
+    "text": "这传票就是整个。"
+  },
+  {
+    "index": 131,
+    "start_time": 483.68,
+    "end_time": 485.88,
+    "label": "S02",
+    "text": "生产的信息都在传票体现。"
+  },
+  {
+    "index": 132,
+    "start_time": 486.48,
+    "end_time": 489.21,
+    "label": "S02",
+    "text": "结账啊什么的，所有的东西都在传票上。"
+  },
+  {
+    "index": 133,
+    "start_time": 489.91,
+    "end_time": 495.41,
+    "label": "S01",
+    "text": "这个传票我理解是跟这个纸质稿是要连在一起的，因为方便到时候对得上，对吧？"
+  },
+  {
+    "index": 134,
+    "start_time": 497.11,
+    "end_time": 504.41,
+    "label": "S02",
+    "text": "他就是不管是纸质的还是电子的，都有一个传票跟着，就是反正我们过去就是一直都是。"
+  },
+  {
+    "index": 135,
+    "start_time": 504.78,
+    "end_time": 510.18,
+    "label": "S02",
+    "text": "你要是不管是啥啥的，只要是车间要生产的东西，所有的都要经过传票。"
+  },
+  {
+    "index": 136,
+    "start_time": 510.58,
+    "end_time": 511.51,
+    "label": "S01",
+    "text": "哦，好的。"
+  },
+  {
+    "index": 137,
+    "start_time": 512.81,
+    "end_time": 513.28,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 138,
+    "start_time": 514.01,
+    "end_time": 515.88,
+    "label": "S01",
+    "text": "点系统数量。"
+  },
+  {
+    "index": 139,
+    "start_time": 526.98,
+    "end_time": 528.48,
+    "label": "S01",
+    "text": "字母上排证。"
+  },
+  {
+    "index": 140,
+    "start_time": 537.48,
+    "end_time": 539.91,
+    "label": "S01",
+    "text": "临时的书写记录。"
+  },
+  {
+    "index": 141,
+    "start_time": 540.81,
+    "end_time": 544.21,
+    "label": "S01",
+    "text": "订单与订单数量不一致时，如何对。"
+  },
+  {
+    "index": 142,
+    "start_time": 546.08,
+    "end_time": 547.31,
+    "label": "S01",
+    "text": "呃，也不考虑。"
+  },
+  {
+    "index": 143,
+    "start_time": 549.68,
+    "end_time": 550.71,
+    "label": "S01",
+    "text": "一起，ok。"
+  },
+  {
+    "index": 144,
+    "start_time": 551.48,
+    "end_time": 555.01,
+    "label": "S01",
+    "text": "咱们现在那个耗材这边还会记录吗？夏经理。"
+  },
+  {
+    "index": 145,
+    "start_time": 555.78,
+    "end_time": 562.58,
+    "label": "S02",
+    "text": "耗材，我我就是平时我进耗材的时候，我都手动的记，我自己用用个账本儿记的。"
+  },
+  {
+    "index": 146,
+    "start_time": 562.81,
+    "end_time": 566.51,
+    "label": "S01",
+    "text": "哦，账本记一下，进了多少，用了多少，是吧？"
+  },
+  {
+    "index": 147,
+    "start_time": 566.41,
+    "end_time": 568.98,
+    "label": "S02",
+    "text": "不是，记，这就是保管员记数。"
+  },
+  {
+    "index": 148,
+    "start_time": 570.31,
+    "end_time": 572.01,
+    "label": "S01",
+    "text": "嗯，我我我。"
+  },
+  {
+    "index": 149,
+    "start_time": 571.58,
+    "end_time": 578.08,
+    "label": "S02",
+    "text": "但是我进货的时候，我自己我也单独进一个，我因为我进货，我进的时候，我就单独记个流水账。"
+  },
+  {
+    "index": 150,
+    "start_time": 578.38,
+    "end_time": 579.18,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 151,
+    "start_time": 582.18,
+    "end_time": 584.91,
+    "label": "S01",
+    "text": "那个订多少，用多少，哦。"
+  },
+  {
+    "index": 152,
+    "start_time": 584.88,
+    "end_time": 587.71,
+    "label": "S02",
+    "text": "用多少是出库，然后定多少是我定。"
+  },
+  {
+    "index": 153,
+    "start_time": 587.98,
+    "end_time": 590.28,
+    "label": "S01",
+    "text": "哦，你来定，出库是另外一个老师是吧？"
+  },
+  {
+    "index": 154,
+    "start_time": 590.31,
+    "end_time": 592.68,
+    "label": "S02",
+    "text": "出库是对，我们有保管员。"
+  },
+  {
+    "index": 155,
+    "start_time": 593.21,
+    "end_time": 597.01,
+    "label": "S02",
+    "text": "出库，比如给哪家出多少，出出哪个用啥的。"
+  },
+  {
+    "index": 156,
+    "start_time": 593.31,
+    "end_time": 593.88,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 157,
+    "start_time": 597.58,
+    "end_time": 598.18,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 158,
+    "start_time": 598.81,
+    "end_time": 599.48,
+    "label": "S01",
+    "text": "好的。"
+  },
+  {
+    "index": 159,
+    "start_time": 599.91,
+    "end_time": 602.01,
+    "label": "S01",
+    "text": "咱们这边主要的耗材是哪几块呀？"
+  },
+  {
+    "index": 160,
+    "start_time": 602.51,
+    "end_time": 605.01,
+    "label": "S01",
+    "text": "哪些耗材，纸张油墨是吧？"
+  },
+  {
+    "index": 161,
+    "start_time": 605.61,
+    "end_time": 608.88,
+    "label": "S02",
+    "text": "纸张油墨，所有的生产用的都进啊。"
+  },
+  {
+    "index": 162,
+    "start_time": 609.68,
+    "end_time": 610.58,
+    "label": "S02",
+    "text": "各种纸。"
+  },
+  {
+    "index": 163,
+    "start_time": 611.18,
+    "end_time": 611.78,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 164,
+    "start_time": 612.01,
+    "end_time": 621.18,
+    "label": "S02",
+    "text": "呃，油墨板纸，板纸都分两种，有三种，有PS板，PS板现在用的少。"
+  },
+  {
+    "index": 165,
+    "start_time": 621.71,
+    "end_time": 624.81,
+    "label": "S02",
+    "text": "氧化锌和那个那个什么。"
+  },
+  {
+    "index": 166,
+    "start_time": 625.51,
+    "end_time": 626.98,
+    "label": "S02",
+    "text": "EX板纸那种。"
+  },
+  {
+    "index": 167,
+    "start_time": 630.91,
+    "end_time": 634.88,
+    "label": "S01",
+    "text": "主要的就是纸张油墨，纸张和板纸是一种东西是吧？"
+  },
+  {
+    "index": 168,
+    "start_time": 636.68,
+    "end_time": 638.71,
+    "label": "S02",
+    "text": "纸张和板纸不是一种东西。"
+  },
+  {
+    "index": 169,
+    "start_time": 639.11,
+    "end_time": 639.71,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 170,
+    "start_time": 641.11,
+    "end_time": 644.88,
+    "label": "S01",
+    "text": "就反正就三种，一个是纸张，一个是油墨，一个是板纸是吧？"
+  },
+  {
+    "index": 171,
+    "start_time": 645.08,
+    "end_time": 648.58,
+    "label": "S01",
+    "text": "然后呢，纸张和板纸都分为很多种型号的，是吧？"
+  },
+  {
+    "index": 172,
+    "start_time": 652.11,
+    "end_time": 656.01,
+    "label": "S02",
+    "text": "板纸和油墨，油墨还分两种。"
+  },
+  {
+    "index": 173,
+    "start_time": 656.31,
+    "end_time": 659.41,
+    "label": "S02",
+    "text": "一个是胶印机用的，一个是复印机用的。"
+  },
+  {
+    "index": 174,
+    "start_time": 656.41,
+    "end_time": 656.91,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 175,
+    "start_time": 659.61,
+    "end_time": 662.61,
+    "label": "S02",
+    "text": "然后碳粉载体很多明细，这些。"
+  },
+  {
+    "index": 176,
+    "start_time": 662.98,
+    "end_time": 664.61,
+    "label": "S02",
+    "text": "各个件儿啥的。"
+  },
+  {
+    "index": 177,
+    "start_time": 665.68,
+    "end_time": 666.71,
+    "label": "S02",
+    "text": "都都都有。"
+  },
+  {
+    "index": 178,
+    "start_time": 666.91,
+    "end_time": 669.81,
+    "label": "S01",
+    "text": "哦，还有碳，碳，碳，碳，碳粉。"
+  },
+  {
+    "index": 179,
+    "start_time": 671.18,
+    "end_time": 673.71,
+    "label": "S02",
+    "text": "碳粉，制版机用的碳粉。"
+  },
+  {
+    "index": 180,
+    "start_time": 673.81,
+    "end_time": 675.01,
+    "label": "S01",
+    "text": "哦，碳粉，还有。"
+  },
+  {
+    "index": 181,
+    "start_time": 674.41,
+    "end_time": 677.31,
+    "label": "S02",
+    "text": "塑塑印机用的油墨和板纸。"
+  },
+  {
+    "index": 182,
+    "start_time": 677.68,
+    "end_time": 678.28,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 183,
+    "start_time": 677.71,
+    "end_time": 683.61,
+    "label": "S02",
+    "text": "嗯，那个啥，胶印机用的板纸和油墨，这个都不同，都都不一样。"
+  },
+  {
+    "index": 184,
+    "start_time": 684.48,
+    "end_time": 684.91,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 185,
+    "start_time": 687.38,
+    "end_time": 695.21,
+    "label": "S01",
+    "text": "咱们那个制版和印刷是两个步骤，制版先做，后做印刷，对吧，制版是什么个，具体是什么个意思呀？"
+  },
+  {
+    "index": 186,
+    "start_time": 698.11,
+    "end_time": 703.18,
+    "label": "S02",
+    "text": "制版是就是把那个要印的东西制到板上，然后下一个流程就是印刷。"
+  },
+  {
+    "index": 187,
+    "start_time": 703.91,
+    "end_time": 713.51,
+    "label": "S01",
+    "text": "哦，相当于学校给的信息，我们传做成传票，然后制版就是根据这个传票做出一个模板出来，然后就让印刷来印，对吧？"
+  },
+  {
+    "index": 188,
+    "start_time": 711.81,
+    "end_time": 712.31,
+    "label": "S02",
+    "text": "对。"
+  },
+  {
+    "index": 189,
+    "start_time": 713.58,
+    "end_time": 714.31,
+    "label": "S02",
+    "text": "对对对。"
+  },
+  {
+    "index": 190,
+    "start_time": 714.51,
+    "end_time": 715.51,
+    "label": "S01",
+    "text": "哦，好的好的。"
+  },
+  {
+    "index": 191,
+    "start_time": 716.41,
+    "end_time": 717.18,
+    "label": "S01",
+    "text": "了解了。"
+  },
+  {
+    "index": 192,
+    "start_time": 720.01,
+    "end_time": 723.48,
+    "label": "S01",
+    "text": "还有，也不需要进那个东西，耗材。"
+  },
+  {
+    "index": 193,
+    "start_time": 724.48,
+    "end_time": 726.41,
+    "label": "S01",
+    "text": "复印机只能不能看那个。"
+  },
+  {
+    "index": 194,
+    "start_time": 729.11,
+    "end_time": 729.91,
+    "label": "S01",
+    "text": "这个不太行。"
+  },
+  {
+    "index": 195,
+    "start_time": 731.41,
+    "end_time": 732.91,
+    "label": "S01",
+    "text": "呃，板纸。"
+  },
+  {
+    "index": 196,
+    "start_time": 737.28,
+    "end_time": 738.31,
+    "label": "S01",
+    "text": "准补充。"
+  },
+  {
+    "index": 197,
+    "start_time": 746.08,
+    "end_time": 747.58,
+    "label": "S01",
+    "text": "灯补电与板电。"
+  },
+  {
+    "index": 198,
+    "start_time": 754.61,
+    "end_time": 755.31,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 199,
+    "start_time": 755.78,
+    "end_time": 760.58,
+    "label": "S01",
+    "text": "好的好的，夏经理，我现在好像问的差不多了，就是主要还是那个那个。"
+  },
+  {
+    "index": 200,
+    "start_time": 759.81,
+    "end_time": 761.61,
+    "label": "S02",
+    "text": "行，你要想起来啥再问。"
+  },
+  {
+    "index": 201,
+    "start_time": 762.11,
+    "end_time": 763.81,
+    "label": "S01",
+    "text": "嗯，好的好的，夏经理。"
+  },
+  {
+    "index": 202,
+    "start_time": 763.11,
+    "end_time": 764.21,
+    "label": "S02",
+    "text": "嗯，好。"
+  },
+  {
+    "index": 203,
+    "start_time": 764.71,
+    "end_time": 766.61,
+    "label": "S01",
+    "text": "嗯，哎，杜老师啊。"
+  },
+  {
+    "index": 204,
+    "start_time": 766.98,
+    "end_time": 768.58,
+    "label": "S04",
+    "text": "哎，怎么还需要问哪位？"
+  },
+  {
+    "index": 205,
+    "start_time": 768.71,
+    "end_time": 773.58,
+    "label": "S01",
+    "text": "呃，呃，现在就是那个两块比较主要的，一个是那个财务那边。"
+  },
+  {
+    "index": 206,
+    "start_time": 774.11,
+    "end_time": 775.28,
+    "label": "S01",
+    "text": "财务是哪个老师啊？"
+  },
+  {
+    "index": 207,
+    "start_time": 775.58,
+    "end_time": 777.58,
+    "label": "S04",
+    "text": "啊，财务出去了，还没回来呢。"
+  },
+  {
+    "index": 208,
+    "start_time": 777.78,
+    "end_time": 778.78,
+    "label": "S01",
+    "text": "哦，他叫什么？"
+  },
+  {
+    "index": 209,
+    "start_time": 779.58,
+    "end_time": 780.81,
+    "label": "S04",
+    "text": "嗯，叫姓周。"
+  },
+  {
+    "index": 210,
+    "start_time": 780.68,
+    "end_time": 781.71,
+    "label": "S02",
+    "text": "周金华。"
+  },
+  {
+    "index": 211,
+    "start_time": 782.01,
+    "end_time": 783.48,
+    "label": "S01",
+    "text": "哦，生产夏经理。"
+  },
+  {
+    "index": 212,
+    "start_time": 783.98,
+    "end_time": 786.08,
+    "label": "S01",
+    "text": "财务周老师。"
+  },
+  {
+    "index": 213,
+    "start_time": 786.71,
+    "end_time": 790.81,
+    "label": "S01",
+    "text": "然后还有一个是那个叫什么来着，是那个，嗯。"
+  },
+  {
+    "index": 214,
+    "start_time": 792.21,
+    "end_time": 793.88,
+    "label": "S01",
+    "text": "嗯，还有一个是那个注点的。"
+  },
+  {
+    "index": 215,
+    "start_time": 794.61,
+    "end_time": 796.38,
+    "label": "S01",
+    "text": "注点的今天能问吗？"
+  },
+  {
+    "index": 216,
+    "start_time": 797.08,
+    "end_time": 797.88,
+    "label": "S01",
+    "text": "点老师。"
+  },
+  {
+    "index": 217,
+    "start_time": 797.78,
+    "end_time": 798.91,
+    "label": "S02",
+    "text": "这个谁算注点。"
+  },
+  {
+    "index": 218,
+    "start_time": 799.08,
+    "end_time": 805.31,
+    "label": "S04",
+    "text": "注点的那个，刚才那个金哥说说是让你加他微信，还是咋咋说的来着？"
+  },
+  {
+    "index": 219,
+    "start_time": 805.61,
+    "end_time": 806.68,
+    "label": "S04",
+    "text": "嗯，让你问他。"
+  },
+  {
+    "index": 220,
+    "start_time": 806.31,
+    "end_time": 809.11,
+    "label": "S01",
+    "text": "那我回，那我回头问一下那个晶晶。"
+  },
+  {
+    "index": 221,
+    "start_time": 809.78,
+    "end_time": 810.38,
+    "label": "S04",
+    "text": "嗯。"
+  },
+  {
+    "index": 222,
+    "start_time": 810.58,
+    "end_time": 815.31,
+    "label": "S01",
+    "text": "然后，这财务周老师，要不等周老师回来之后，我们再对吧？"
+  },
+  {
+    "index": 223,
+    "start_time": 816.01,
+    "end_time": 817.21,
+    "label": "S04",
+    "text": "啊，行，可以。"
+  },
+  {
+    "index": 224,
+    "start_time": 817.38,
+    "end_time": 817.91,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 225,
+    "start_time": 818.58,
+    "end_time": 820.71,
+    "label": "S04",
+    "text": "嗯，别的没有需要问的了吗？"
+  },
+  {
+    "index": 226,
+    "start_time": 818.61,
+    "end_time": 819.11,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 227,
+    "start_time": 821.08,
+    "end_time": 823.21,
+    "label": "S01",
+    "text": "别的，我再看一下。"
+  },
+  {
+    "index": 228,
+    "start_time": 824.91,
+    "end_time": 827.68,
+    "label": "S01",
+    "text": "好像很多蛮细的东西，是吧，我想不出来了。"
+  },
+  {
+    "index": 229,
+    "start_time": 828.41,
+    "end_time": 829.31,
+    "label": "S01",
+    "text": "还得瞄一眼。"
+  },
+  {
+    "index": 230,
+    "start_time": 836.41,
+    "end_time": 837.91,
+    "label": "S01",
+    "text": "这个是真传票。"
+  },
+  {
+    "index": 231,
+    "start_time": 861.78,
+    "end_time": 863.61,
+    "label": "S01",
+    "text": "那个状态机设计。"
+  },
+  {
+    "index": 232,
+    "start_time": 869.91,
+    "end_time": 870.91,
+    "label": "S01",
+    "text": "折算。"
+  },
+  {
+    "index": 233,
+    "start_time": 883.71,
+    "end_time": 886.11,
+    "label": "S01",
+    "text": "咱们现在一张传票中只有一个产品是吧？"
+  },
+  {
+    "index": 234,
+    "start_time": 886.88,
+    "end_time": 887.48,
+    "label": "S02",
+    "text": "不是。"
+  },
+  {
+    "index": 235,
+    "start_time": 888.01,
+    "end_time": 890.41,
+    "label": "S02",
+    "text": "一张传票有有写好几个呢。"
+  },
+  {
+    "index": 236,
+    "start_time": 891.11,
+    "end_time": 892.31,
+    "label": "S01",
+    "text": "哦，多个产品。"
+  },
+  {
+    "index": 237,
+    "start_time": 894.51,
+    "end_time": 901.71,
+    "label": "S01",
+    "text": "那多个产品的话，相当于每个产品有没有可能走不，后面走不同的工序呢，有的需要装订，有的不需要装订。"
+  },
+  {
+    "index": 238,
+    "start_time": 901.88,
+    "end_time": 902.58,
+    "label": "S02",
+    "text": "对，有。"
+  },
+  {
+    "index": 239,
+    "start_time": 903.91,
+    "end_time": 904.41,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 240,
+    "start_time": 904.01,
+    "end_time": 908.01,
+    "label": "S02",
+    "text": "但我一般都把装的需要装订的写一块儿，一般不装订的写一块儿。"
+  },
+  {
+    "index": 241,
+    "start_time": 909.28,
+    "end_time": 915.81,
+    "label": "S01",
+    "text": "哦，就是一张产品，一张传票里边，比方说有五个产品，三个需要装订的写在一起，三个不需要装订的写在一起，是吧？"
+  },
+  {
+    "index": 242,
+    "start_time": 915.81,
+    "end_time": 917.68,
+    "label": "S02",
+    "text": "嗯，一般情况下是这样的。"
+  },
+  {
+    "index": 243,
+    "start_time": 919.18,
+    "end_time": 925.68,
+    "label": "S02",
+    "text": "但有的时候一个，像一个单位的东西，我也要写在一起，有需要装订，有不需要装订，也要往一块儿写。"
+  },
+  {
+    "index": 244,
+    "start_time": 926.88,
+    "end_time": 935.58,
+    "label": "S01",
+    "text": "其实就会有一些，因为你现在控制那个业务流流程的时候，就是控制那个装订流程，呃，工序流程的时候。"
+  },
+  {
+    "index": 245,
+    "start_time": 935.81,
+    "end_time": 942.31,
+    "label": "S01",
+    "text": "你是根据传票来工装订的，但是一张传票呢，有的有有的那个工序又不一样，你是怎么处理啊？"
+  },
+  {
+    "index": 246,
+    "start_time": 944.18,
+    "end_time": 946.01,
+    "label": "S02",
+    "text": "那上面有明细有说明啊。"
+  },
+  {
+    "index": 247,
+    "start_time": 946.91,
+    "end_time": 951.81,
+    "label": "S02",
+    "text": "我用手写，他都需要干啥干啥，需要注意哪方面啥的。"
+  },
+  {
+    "index": 248,
+    "start_time": 952.11,
+    "end_time": 958.51,
+    "label": "S01",
+    "text": "哦，就这张传票中的五个产品，哪哪两个产品是走哪个工序，哪两个产品走另外一个工序。"
+  },
+  {
+    "index": 249,
+    "start_time": 958.78,
+    "end_time": 961.28,
+    "label": "S02",
+    "text": "是的，有，对，快到点儿了，是吧。"
+  },
+  {
+    "index": 250,
+    "start_time": 961.81,
+    "end_time": 965.81,
+    "label": "S01",
+    "text": "工序，哦，快到点儿了，是工序，要走。"
+  },
+  {
+    "index": 251,
+    "start_time": 966.88,
+    "end_time": 967.48,
+    "label": "S01",
+    "text": "从。"
+  },
+  {
+    "index": 252,
+    "start_time": 969.11,
+    "end_time": 971.51,
+    "label": "S01",
+    "text": "从，呃，产品要走不同的工序。"
+  },
+  {
+    "index": 253,
+    "start_time": 973.08,
+    "end_time": 974.18,
+    "label": "S01",
+    "text": "好的好的好的。"
+  },
+  {
+    "index": 254,
+    "start_time": 975.88,
+    "end_time": 978.61,
+    "label": "S01",
+    "text": "是不是快，快到，哦，快到那个腾讯会议到点儿了，是吧？"
+  },
+  {
+    "index": 255,
+    "start_time": 979.61,
+    "end_time": 980.18,
+    "label": "S01",
+    "text": "看一下。"
+  },
+  {
+    "index": 256,
+    "start_time": 984.01,
+    "end_time": 984.51,
+    "label": "S01",
+    "text": "诶。"
+  },
+  {
+    "index": 257,
+    "start_time": 1001.21,
+    "end_time": 1006.61,
+    "label": "S02",
+    "text": "就比如学校的卷子，我一张传票要写好几种，有时候就写四个，三个。"
+  },
+  {
+    "index": 258,
+    "start_time": 1006.88,
+    "end_time": 1010.81,
+    "label": "S02",
+    "text": "或者是一张传票都体现好几个单位的，因为它这个。"
+  },
+  {
+    "index": 259,
+    "start_time": 1011.41,
+    "end_time": 1015.01,
+    "label": "S02",
+    "text": "要不然浪费传票，一张一个一个明细。"
+  },
+  {
+    "index": 260,
+    "start_time": 1016.28,
+    "end_time": 1022.68,
+    "label": "S01",
+    "text": "我理解学校的卷子，它走的流程肯定是一样的，都是要打印，装订，或者是都是一个流程。"
+  },
+  {
+    "index": 261,
+    "start_time": 1022.91,
+    "end_time": 1024.68,
+    "label": "S01",
+    "text": "有没有可能它既有卷子。"
+  },
+  {
+    "index": 262,
+    "start_time": 1025.01,
+    "end_time": 1029.01,
+    "label": "S01",
+    "text": "又有答题卡，然后卷子呢，跟答题卡又是不同的流程。"
+  },
+  {
+    "index": 263,
+    "start_time": 1029.28,
+    "end_time": 1031.61,
+    "label": "S01",
+    "text": "卷子是打印，装订，打包。"
+  },
+  {
+    "index": 264,
+    "start_time": 1031.28,
+    "end_time": 1035.91,
+    "label": "S02",
+    "text": "不是，不是不，不，卷子和答题卡经常是放在一块儿的。"
+  },
+  {
+    "index": 265,
+    "start_time": 1036.31,
+    "end_time": 1041.71,
+    "label": "S02",
+    "text": "经常是有一一起的，但是卷子和那个答题卡，它俩的规格不一样。"
+  },
+  {
+    "index": 266,
+    "start_time": 1041.91,
+    "end_time": 1043.28,
+    "label": "S02",
+    "text": "流程是一样的。"
+  },
+  {
+    "index": 267,
+    "start_time": 1044.01,
+    "end_time": 1045.48,
+    "label": "S02",
+    "text": "只是用纸不一样。"
+  },
+  {
+    "index": 268,
+    "start_time": 1046.38,
+    "end_time": 1048.91,
+    "label": "S02",
+    "text": "答题卡需要厚纸，卷子需要薄纸。"
+  },
+  {
+    "index": 269,
+    "start_time": 1050.08,
+    "end_time": 1052.71,
+    "label": "S01",
+    "text": "那有，呃，我我懂你意思，有没有可能。"
+  },
+  {
+    "index": 270,
+    "start_time": 1052.88,
+    "end_time": 1057.81,
+    "label": "S01",
+    "text": "这个传票里边的两个商品，它的工序不一样，就比方说有的有装订，有的没装订。"
+  },
+  {
+    "index": 271,
+    "start_time": 1058.71,
+    "end_time": 1064.41,
+    "label": "S02",
+    "text": "有可能有，我可以也可以避免一下，单独这样子的放在一块儿，需要装订的。"
+  },
+  {
+    "index": 272,
+    "start_time": 1065.01,
+    "end_time": 1073.78,
+    "label": "S01",
+    "text": "那相当于，嗯，但是他，但是我们传票现在又是跟那个订单来定好的，一个订单，一个传票吗，还是说多少个订单可以放在一个传票里去？"
+  },
+  {
+    "index": 273,
+    "start_time": 1065.08,
+    "end_time": 1065.58,
+    "label": "S02",
+    "text": "就看。"
+  },
+  {
+    "index": 274,
+    "start_time": 1073.88,
+    "end_time": 1075.61,
+    "label": "S02",
+    "text": "不是，来我。"
+  },
+  {
+    "index": 275,
+    "start_time": 1076.18,
+    "end_time": 1076.71,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 276,
+    "start_time": 1078.61,
+    "end_time": 1086.91,
+    "label": "S02",
+    "text": "他这个传票，他这个活儿来的时候吧，也不是说一起来，一会儿来一个活儿，一会儿来一个活儿，为啥我说一个传票上有，有的时候要写。"
+  },
+  {
+    "index": 277,
+    "start_time": 1087.18,
+    "end_time": 1089.58,
+    "label": "S02",
+    "text": "三家的那个产品呢。"
+  },
+  {
+    "index": 278,
+    "start_time": 1089.68,
+    "end_time": 1090.18,
+    "label": "S01",
+    "text": "哦。"
+  },
+  {
+    "index": 279,
+    "start_time": 1089.88,
+    "end_time": 1095.78,
+    "label": "S02",
+    "text": "因为他要不然一家的占一张传票，规格差不多，我都写在一张传票上，这不就省传票吗？"
+  },
+  {
+    "index": 280,
+    "start_time": 1096.41,
+    "end_time": 1102.48,
+    "label": "S01",
+    "text": "哦，就是一个传票可以对多个订单，然后呢，这个订单有可能包含多个。"
+  },
+  {
+    "index": 281,
+    "start_time": 1099.21,
+    "end_time": 1099.78,
+    "label": "S02",
+    "text": "嗯。"
+  },
+  {
+    "index": 282,
+    "start_time": 1102.71,
+    "end_time": 1105.21,
+    "label": "S01",
+    "text": "呃，多个来自不同的学校的，不同的合同。"
+  },
+  {
+    "index": 283,
+    "start_time": 1105.68,
+    "end_time": 1106.21,
+    "label": "S02",
+    "text": "嗯。"
+  },
+  {
+    "index": 284,
+    "start_time": 1106.58,
+    "end_time": 1111.68,
+    "label": "S01",
+    "text": "哦，但是呢，我们可以保证就是一个传票里边的所有的产品，它的工序是一样的。"
+  },
+  {
+    "index": 285,
+    "start_time": 1112.61,
+    "end_time": 1113.31,
+    "label": "S02",
+    "text": "基本上。"
+  },
+  {
+    "index": 286,
+    "start_time": 1115.58,
+    "end_time": 1117.91,
+    "label": "S01",
+    "text": "有，有存在不一样的是吧？"
+  },
+  {
+    "index": 287,
+    "start_time": 1118.71,
+    "end_time": 1124.91,
+    "label": "S02",
+    "text": "有，也有，有那也也可以，要是有特殊情况可以避免，但是这些事情也经常发生。"
+  },
+  {
+    "index": 288,
+    "start_time": 1125.78,
+    "end_time": 1129.71,
+    "label": "S01",
+    "text": "嗯，因因为因为一旦有这种情况，我就要考虑这种情况该怎么处理。"
+  },
+  {
+    "index": 289,
+    "start_time": 1130.11,
+    "end_time": 1137.11,
+    "label": "S02",
+    "text": "对啊，因为有的时候订单多，我还是想把一个学校写的一张单，这样好统计，也好计算。"
+  },
+  {
+    "index": 290,
+    "start_time": 1137.98,
+    "end_time": 1138.48,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 291,
+    "start_time": 1138.18,
+    "end_time": 1145.31,
+    "label": "S02",
+    "text": "但是那活儿不是说他来一下就来这些，他就一会儿来，一会儿来，生产还需要，所需要这个票得下去。"
+  },
+  {
+    "index": 292,
+    "start_time": 1145.41,
+    "end_time": 1149.01,
+    "label": "S02",
+    "text": "所以说这几个学校我就写在一起了，让他一起就生产。"
+  },
+  {
+    "index": 293,
+    "start_time": 1149.48,
+    "end_time": 1150.21,
+    "label": "S01",
+    "text": "哦，就是。"
+  },
+  {
+    "index": 294,
+    "start_time": 1149.71,
+    "end_time": 1150.71,
+    "label": "S02",
+    "text": "要不然就得等。"
+  },
+  {
+    "index": 295,
+    "start_time": 1152.01,
+    "end_time": 1155.51,
+    "label": "S01",
+    "text": "相当于这这这几个学校的传，那个单子是一起来了。"
+  },
+  {
+    "index": 296,
+    "start_time": 1155.78,
+    "end_time": 1158.61,
+    "label": "S01",
+    "text": "然后呢，又差不多，我就给他放到一起去了，对吧？"
+  },
+  {
+    "index": 297,
+    "start_time": 1158.21,
+    "end_time": 1159.61,
+    "label": "S02",
+    "text": "对对对，啊。"
+  },
+  {
+    "index": 298,
+    "start_time": 1160.08,
+    "end_time": 1160.88,
+    "label": "S01",
+    "text": "好的好的。"
+  },
+  {
+    "index": 299,
+    "start_time": 1160.61,
+    "end_time": 1163.91,
+    "label": "S02",
+    "text": "就就标明哪个学校，哪个学校的就就完事儿了。"
+  },
+  {
+    "index": 300,
+    "start_time": 1164.58,
+    "end_time": 1166.38,
+    "label": "S01",
+    "text": "哦，传票这块挺复杂的。"
+  },
+  {
+    "index": 301,
+    "start_time": 1167.01,
+    "end_time": 1170.21,
+    "label": "S01",
+    "text": "但其实后面传票就是跟那个订单就不绑定了，相当于。"
+  },
+  {
+    "index": 302,
+    "start_time": 1167.08,
+    "end_time": 1167.58,
+    "label": "S02",
+    "text": "嗯。"
+  },
+  {
+    "index": 303,
+    "start_time": 1170.38,
+    "end_time": 1174.81,
+    "label": "S01",
+    "text": "这个传票就是后面作为，作为结算的东西来做了，跟订单就不完全一样了。"
+  },
+  {
+    "index": 304,
+    "start_time": 1175.81,
+    "end_time": 1178.91,
+    "label": "S02",
+    "text": "这传票就是一样，它都是统一的。"
+  },
+  {
+    "index": 305,
+    "start_time": 1179.11,
+    "end_time": 1186.91,
+    "label": "S02",
+    "text": "这传票下去之后，生产上就得完全按照这个传票，一步一步的往后走，走到最后打包出库。"
+  },
+  {
+    "index": 306,
+    "start_time": 1187.41,
+    "end_time": 1192.08,
+    "label": "S02",
+    "text": "这传票才才算结束，就所以生产这流程都得看这张传票。"
+  },
+  {
+    "index": 307,
+    "start_time": 1193.51,
+    "end_time": 1196.28,
+    "label": "S02",
+    "text": "就起决定性的作用的就是这张传票。"
+  },
+  {
+    "index": 308,
+    "start_time": 1196.91,
+    "end_time": 1203.58,
+    "label": "S01",
+    "text": "哦，有，咱们有没有那种多多个订单的放在一起的传票，呃，能拍照给我发一下吗？"
+  },
+  {
+    "index": 309,
+    "start_time": 1203.98,
+    "end_time": 1205.71,
+    "label": "S02",
+    "text": "嗯，可以给你拍。"
+  },
+  {
+    "index": 310,
+    "start_time": 1205.88,
+    "end_time": 1210.51,
+    "label": "S01",
+    "text": "嗯，就是我我想这边收集到我们各种各样的传票，包括卖废纸的。"
+  },
+  {
+    "index": 311,
+    "start_time": 1210.88,
+    "end_time": 1215.28,
+    "label": "S01",
+    "text": "然后多个订单放在一起的，单个订单的，不同工序放在一起的传票。"
+  },
+  {
+    "index": 312,
+    "start_time": 1215.58,
+    "end_time": 1221.08,
+    "label": "S01",
+    "text": "就是这种情况我都都是需要的，因为我们传票这块是我们ERP系统的一个核心。"
+  },
+  {
+    "index": 313,
+    "start_time": 1221.78,
+    "end_time": 1223.58,
+    "label": "S01",
+    "text": "所以说得把它了解特别清楚。"
+  },
+  {
+    "index": 314,
+    "start_time": 1222.01,
+    "end_time": 1222.51,
+    "label": "S02",
+    "text": "对。"
+  },
+  {
+    "index": 315,
+    "start_time": 1224.08,
+    "end_time": 1224.88,
+    "label": "S02",
+    "text": "是这样。"
+  },
+  {
+    "index": 316,
+    "start_time": 1225.11,
+    "end_time": 1225.71,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 317,
+    "start_time": 1226.88,
+    "end_time": 1228.68,
+    "label": "S04",
+    "text": "呃，这个怎么拍照？"
+  },
+  {
+    "index": 318,
+    "start_time": 1230.58,
+    "end_time": 1233.71,
+    "label": "S01",
+    "text": "可以把那个传票拍出来就行了，就拍的细一点。"
+  },
+  {
+    "index": 319,
+    "start_time": 1234.01,
+    "end_time": 1238.71,
+    "label": "S01",
+    "text": "然后你放到，发到，发到钉钉的里边也可以，或者是我后面加您微信。"
+  },
+  {
+    "index": 320,
+    "start_time": 1241.11,
+    "end_time": 1242.31,
+    "label": "S01",
+    "text": "或者你发给。"
+  },
+  {
+    "index": 321,
+    "start_time": 1242.81,
+    "end_time": 1244.41,
+    "label": "S01",
+    "text": "那个晶晶老师。"
+  },
+  {
+    "index": 322,
+    "start_time": 1245.21,
+    "end_time": 1245.88,
+    "label": "S04",
+    "text": "行。"
+  },
+  {
+    "index": 323,
+    "start_time": 1247.08,
+    "end_time": 1248.88,
+    "label": "S01",
+    "text": "呃，就是各种各样传票都要啊。"
+  },
+  {
+    "index": 324,
+    "start_time": 1250.21,
+    "end_time": 1250.71,
+    "label": "S04",
+    "text": "好。"
+  },
+  {
+    "index": 325,
+    "start_time": 1250.71,
+    "end_time": 1251.41,
+    "label": "S02",
+    "text": "各种各样。"
+  },
+  {
+    "index": 326,
+    "start_time": 1252.18,
+    "end_time": 1256.68,
+    "label": "S01",
+    "text": "嗯，就是各种各样的类型的都需要一张，比方说我们有卖废纸的传票。"
+  },
+  {
+    "index": 327,
+    "start_time": 1257.18,
+    "end_time": 1262.31,
+    "label": "S01",
+    "text": "有什么油墨使用的传票，还有那种，呃，正常的订单的传票。"
+  },
+  {
+    "index": 328,
+    "start_time": 1261.61,
+    "end_time": 1263.21,
+    "label": "S02",
+    "text": "油墨使用的没有啊。"
+  },
+  {
+    "index": 329,
+    "start_time": 1263.48,
+    "end_time": 1264.11,
+    "label": "S01",
+    "text": "没有是吧？"
+  },
+  {
+    "index": 330,
+    "start_time": 1263.71,
+    "end_time": 1265.38,
+    "label": "S02",
+    "text": "没有油墨使用的传票。"
+  },
+  {
+    "index": 331,
+    "start_time": 1265.21,
+    "end_time": 1267.41,
+    "label": "S01",
+    "text": "是是是板纸是吧，板纸的。"
+  },
+  {
+    "index": 332,
+    "start_time": 1270.61,
+    "end_time": 1273.21,
+    "label": "S01",
+    "text": "是板纸的是吧，板纸的有传票是吧？"
+  },
+  {
+    "index": 333,
+    "start_time": 1273.11,
+    "end_time": 1277.88,
+    "label": "S02",
+    "text": "有有有，就就是一张传票对一张啥的，没有这种说那种。"
+  },
+  {
+    "index": 334,
+    "start_time": 1278.41,
+    "end_time": 1279.11,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 335,
+    "start_time": 1280.91,
+    "end_time": 1285.01,
+    "label": "S01",
+    "text": "包括我们给那个，我们是做那种，我们给那个什么。"
+  },
+  {
+    "index": 336,
+    "start_time": 1285.58,
+    "end_time": 1289.78,
+    "label": "S01",
+    "text": "嗯，财，外外部，我们我们这个转，转包的那种。"
+  },
+  {
+    "index": 337,
+    "start_time": 1290.18,
+    "end_time": 1293.48,
+    "label": "S01",
+    "text": "让外部去做这个产品的，我们不有传票吗，让那个。"
+  },
+  {
+    "index": 338,
+    "start_time": 1293.88,
+    "end_time": 1295.38,
+    "label": "S01",
+    "text": "北极，北极面是什么东西？"
+  },
+  {
+    "index": 339,
+    "start_time": 1294.98,
+    "end_time": 1298.51,
+    "label": "S02",
+    "text": "就直接就写了，下传票的时候直接就写上了。"
+  },
+  {
+    "index": 340,
+    "start_time": 1298.91,
+    "end_time": 1301.98,
+    "label": "S01",
+    "text": "嗯，就是我我需要知道这个传票是什么样的。"
+  },
+  {
+    "index": 341,
+    "start_time": 1309.81,
+    "end_time": 1310.68,
+    "label": "S02",
+    "text": "我给你找。"
+  },
+  {
+    "index": 342,
+    "start_time": 1311.01,
+    "end_time": 1312.18,
+    "label": "S01",
+    "text": "嗯，好的好的。"
+  },
+  {
+    "index": 343,
+    "start_time": 1313.58,
+    "end_time": 1317.51,
+    "label": "S01",
+    "text": "你你你反正最后找到之后，你统一发给晶晶就行了。"
+  },
+  {
+    "index": 344,
+    "start_time": 1318.58,
+    "end_time": 1319.28,
+    "label": "S04",
+    "text": "嗯，好。"
+  },
+  {
+    "index": 345,
+    "start_time": 1335.61,
+    "end_time": 1340.21,
+    "label": "S01",
+    "text": "然后后面的话，传票，订单，传票。"
+  },
+  {
+    "index": 346,
+    "start_time": 1342.18,
+    "end_time": 1344.81,
+    "label": "S01",
+    "text": "就传票，加急订单工序。"
+  },
+  {
+    "index": 347,
+    "start_time": 1345.28,
+    "end_time": 1347.41,
+    "label": "S01",
+    "text": "外围注点，点零七。"
+  },
+  {
+    "index": 348,
+    "start_time": 1348.08,
+    "end_time": 1353.71,
+    "label": "S01",
+    "text": "打包和配送，配送完成，订单状态，结算流程。"
+  },
+  {
+    "index": 349,
+    "start_time": 1354.61,
+    "end_time": 1356.91,
+    "label": "S01",
+    "text": "结算核心业务对象。"
+  },
+  {
+    "index": 350,
+    "start_time": 1357.91,
+    "end_time": 1361.21,
+    "label": "S01",
+    "text": "需要送订单的作为，合同与费用什么样的关系。"
+  },
+  {
+    "index": 351,
+    "start_time": 1362.58,
+    "end_time": 1365.71,
+    "label": "S01",
+    "text": "和结算，合同产品结算结算规则。"
+  },
+  {
+    "index": 352,
+    "start_time": 1366.81,
+    "end_time": 1367.81,
+    "label": "S01",
+    "text": "单结算。"
+  },
+  {
+    "index": 353,
+    "start_time": 1369.21,
+    "end_time": 1370.71,
+    "label": "S01",
+    "text": "结算的口径。"
+  },
+  {
+    "index": 354,
+    "start_time": 1374.91,
+    "end_time": 1377.51,
+    "label": "S01",
+    "text": "呃，发票的合同。"
+  },
+  {
+    "index": 355,
+    "start_time": 1378.58,
+    "end_time": 1379.31,
+    "label": "S01",
+    "text": "回款。"
+  },
+  {
+    "index": 356,
+    "start_time": 1379.91,
+    "end_time": 1382.61,
+    "label": "S01",
+    "text": "预付款，合同最终的订单。"
+  },
+  {
+    "index": 357,
+    "start_time": 1384.48,
+    "end_time": 1385.28,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 358,
+    "start_time": 1386.21,
+    "end_time": 1389.11,
+    "label": "S01",
+    "text": "和学校结算的报表，报表展示。"
+  },
+  {
+    "index": 359,
+    "start_time": 1391.61,
+    "end_time": 1393.21,
+    "label": "S01",
+    "text": "应用范围注点。"
+  },
+  {
+    "index": 360,
+    "start_time": 1394.98,
+    "end_time": 1395.88,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 361,
+    "start_time": 1396.88,
+    "end_time": 1397.68,
+    "label": "S01",
+    "text": "注点。"
+  },
+  {
+    "index": 362,
+    "start_time": 1398.28,
+    "end_time": 1399.38,
+    "label": "S01",
+    "text": "呃，杜老师啊。"
+  },
+  {
+    "index": 363,
+    "start_time": 1400.11,
+    "end_time": 1400.68,
+    "label": "S04",
+    "text": "哎。"
+  },
+  {
+    "index": 364,
+    "start_time": 1400.91,
+    "end_time": 1408.11,
+    "label": "S01",
+    "text": "我这边夏经理这边东西，我我问的应该八九不离十了，后面就是那个财务老师和注点这一块的，注点的我问问晶晶。"
+  },
+  {
+    "index": 365,
+    "start_time": 1407.41,
+    "end_time": 1409.61,
+    "label": "S04",
+    "text": "那个，啊，财务老师刚回来。"
+  },
+  {
+    "index": 366,
+    "start_time": 1409.78,
+    "end_time": 1411.01,
+    "label": "S01",
+    "text": "诶，真的好，真的好。"
+  },
+  {
+    "index": 367,
+    "start_time": 1411.31,
+    "end_time": 1411.88,
+    "label": "S04",
+    "text": "啊啊。"
+  },
+  {
+    "index": 368,
+    "start_time": 1412.31,
+    "end_time": 1414.38,
+    "label": "S01",
+    "text": "嗯，好的，再捋一遍。"
+  },
+  {
+    "index": 369,
+    "start_time": 1414.88,
+    "end_time": 1415.31,
+    "label": "S02",
+    "text": "哎。"
+  },
+  {
+    "index": 370,
+    "start_time": 1417.01,
+    "end_time": 1418.21,
+    "label": "S02",
+    "text": "等我等动到你。"
+  },
+  {
+    "index": 371,
+    "start_time": 1419.71,
+    "end_time": 1420.98,
+    "label": "S05",
+    "text": "哎，你好，老师。"
+  },
+  {
+    "index": 372,
+    "start_time": 1420.98,
+    "end_time": 1422.18,
+    "label": "S01",
+    "text": "诶，杜老师，杜老师。"
+  },
+  {
+    "index": 373,
+    "start_time": 1422.51,
+    "end_time": 1427.91,
+    "label": "S01",
+    "text": "呃，嗯，财务这一块的话，我我我我这边捋一下，再问你几个问题啊。"
+  },
+  {
+    "index": 374,
+    "start_time": 1428.48,
+    "end_time": 1428.91,
+    "label": "S05",
+    "text": "哦。"
+  },
+  {
+    "index": 375,
+    "start_time": 1429.31,
+    "end_time": 1434.88,
+    "label": "S01",
+    "text": "呃，首先就是咱们那个晶晶和采，吉星彩印两个公司嘛。"
+  },
+  {
+    "index": 376,
+    "start_time": 1435.11,
+    "end_time": 1442.98,
+    "label": "S01",
+    "text": "然后两个公司的话，昨天晚上我跟晶晶的聊的是，她她知道她那边两个公司是都有采购，都会有采购。"
+  },
+  {
+    "index": 377,
+    "start_time": 1443.28,
+    "end_time": 1450.61,
+    "label": "S01",
+    "text": "也都会有合同，对吧，因为为了那个采，为了那个集采的，可能这个不同的学校，每年要采集采不一样嘛，对吧？"
+  },
+  {
+    "index": 378,
+    "start_time": 1443.58,
+    "end_time": 1444.11,
+    "label": "S05",
+    "text": "对。"
+  },
+  {
+    "index": 379,
+    "start_time": 1444.88,
+    "end_time": 1445.41,
+    "label": "S05",
+    "text": "对。"
+  },
+  {
+    "index": 380,
+    "start_time": 1451.08,
+    "end_time": 1451.61,
+    "label": "S05",
+    "text": "对。"
+  },
+  {
+    "index": 381,
+    "start_time": 1452.21,
+    "end_time": 1457.18,
+    "label": "S01",
+    "text": "然后这两个公司除了采购都会有，合同都会有，剩下的。"
+  },
+  {
+    "index": 382,
+    "start_time": 1457.81,
+    "end_time": 1463.91,
+    "label": "S01",
+    "text": "从内部的生产呀，订单呀，都都全部是由那个，那个吉星在做，是吧？"
+  },
+  {
+    "index": 383,
+    "start_time": 1464.88,
+    "end_time": 1467.11,
+    "label": "S05",
+    "text": "对，咱们是一个那啥。"
+  },
+  {
+    "index": 384,
+    "start_time": 1467.88,
+    "end_time": 1476.91,
+    "label": "S01",
+    "text": "那就是，但是那个晶晶那边的收，晶晶那边的收入应该是相当于合同的收入，减去采购的支出，对吧？"
+  },
+  {
+    "index": 385,
+    "start_time": 1468.11,
+    "end_time": 1468.68,
+    "label": "S05",
+    "text": "那啥。"
+  },
+  {
+    "index": 386,
+    "start_time": 1479.88,
+    "end_time": 1482.98,
+    "label": "S05",
+    "text": "晶晶的采购的，采购都在一起采。"
+  },
+  {
+    "index": 387,
+    "start_time": 1484.01,
+    "end_time": 1487.68,
+    "label": "S01",
+    "text": "采购不是分开采吗，晶晶也会采，然后吉星也会采。"
+  },
+  {
+    "index": 388,
+    "start_time": 1487.78,
+    "end_time": 1498.98,
+    "label": "S05",
+    "text": "对，采购，就采购是采购的合同，但是生产的过那个什么都是一起采的，包括原材料啊，耗材，还有人工都在一起的。"
+  },
+  {
+    "index": 389,
+    "start_time": 1500.91,
+    "end_time": 1503.98,
+    "label": "S05",
+    "text": "就是，就是所谓的一个经营场所。"
+  },
+  {
+    "index": 390,
+    "start_time": 1505.88,
+    "end_time": 1508.81,
+    "label": "S01",
+    "text": "我知道，就是说采购的东西都放在一起用，是吧？"
+  },
+  {
+    "index": 391,
+    "start_time": 1509.01,
+    "end_time": 1509.61,
+    "label": "S05",
+    "text": "对。"
+  },
+  {
+    "index": 392,
+    "start_time": 1510.01,
+    "end_time": 1513.31,
+    "label": "S01",
+    "text": "但是采购付钱的话，其实是不同的公司在付。"
+  },
+  {
+    "index": 393,
+    "start_time": 1514.41,
+    "end_time": 1518.61,
+    "label": "S05",
+    "text": "嗯，那就看着我看那个公司所需了。"
+  },
+  {
+    "index": 394,
+    "start_time": 1518.98,
+    "end_time": 1528.51,
+    "label": "S05",
+    "text": "如果说这个东西，你就是这个公司缺发票，那采购的东西就进这个，这个公司了，进晶晶了，如果吉星。"
+  },
+  {
+    "index": 395,
+    "start_time": 1528.78,
+    "end_time": 1532.18,
+    "label": "S05",
+    "text": "那个需要，那就是进到吉星了，就是看。"
+  },
+  {
+    "index": 396,
+    "start_time": 1533.41,
+    "end_time": 1535.38,
+    "label": "S01",
+    "text": "然后那个，呃。"
+  },
+  {
+    "index": 397,
+    "start_time": 1534.71,
+    "end_time": 1535.91,
+    "label": "S05",
+    "text": "按实际情况。"
+  },
+  {
+    "index": 398,
+    "start_time": 1536.21,
+    "end_time": 1541.61,
+    "label": "S01",
+    "text": "嗯，但是还有一个情况，就是那个跟，跟那个学校签合同之后。"
+  },
+  {
+    "index": 399,
+    "start_time": 1541.88,
+    "end_time": 1548.68,
+    "label": "S01",
+    "text": "比方说和，学校签的是晶晶，那后面他合同结束之后，肯定把发票给他，然后他把那个钱。"
+  },
+  {
+    "index": 400,
+    "start_time": 1548.88,
+    "end_time": 1550.21,
+    "label": "S01",
+    "text": "都给到晶晶，对吧？"
+  },
+  {
+    "index": 401,
+    "start_time": 1550.51,
+    "end_time": 1551.11,
+    "label": "S05",
+    "text": "对呀。"
+  },
+  {
+    "index": 402,
+    "start_time": 1551.71,
+    "end_time": 1555.41,
+    "label": "S01",
+    "text": "所以说我们晶晶跟吉星是两个公司，它会有不同的那个。"
+  },
+  {
+    "index": 403,
+    "start_time": 1556.11,
+    "end_time": 1560.51,
+    "label": "S01",
+    "text": "不同的账户余额，各种钱，对吧，这两个钱会，他们会做内部结算吗？"
+  },
+  {
+    "index": 404,
+    "start_time": 1562.01,
+    "end_time": 1571.48,
+    "label": "S05",
+    "text": "不做，自己走单独的账户，他俩没有什么，就是没有什么往来，不是说的他跟他有什么交易，或者是咋的，那没有。"
+  },
+  {
+    "index": 405,
+    "start_time": 1571.71,
+    "end_time": 1579.28,
+    "label": "S05",
+    "text": "除非是有必须的情况下，就是互相的，呃，往来，借点钱，你借他钱，他借你钱，是这种的。"
+  },
+  {
+    "index": 406,
+    "start_time": 1579.48,
+    "end_time": 1585.61,
+    "label": "S05",
+    "text": "比如说我吉星需要钱了，完晶晶有，完了以借款的形式转到这个吉星。"
+  },
+  {
+    "index": 407,
+    "start_time": 1585.91,
+    "end_time": 1590.38,
+    "label": "S05",
+    "text": "或者是你晶晶需要钱，吉星有钱，完再转过去。"
+  },
+  {
+    "index": 408,
+    "start_time": 1590.71,
+    "end_time": 1593.98,
+    "label": "S05",
+    "text": "就是互相有往来，借款还款这类的。"
+  },
+  {
+    "index": 409,
+    "start_time": 1594.41,
+    "end_time": 1594.81,
+    "label": "S01",
+    "text": "这个。"
+  },
+  {
+    "index": 410,
+    "start_time": 1594.68,
+    "end_time": 1596.18,
+    "label": "S05",
+    "text": "其余的别的没有。"
+  },
+  {
+    "index": 411,
+    "start_time": 1595.41,
+    "end_time": 1597.61,
+    "label": "S01",
+    "text": "我们这个，生产不相干了，对吧？"
+  },
+  {
+    "index": 412,
+    "start_time": 1598.11,
+    "end_time": 1599.88,
+    "label": "S05",
+    "text": "跟生产不相干，生产是。"
+  },
+  {
+    "index": 413,
+    "start_time": 1601.01,
+    "end_time": 1609.61,
+    "label": "S05",
+    "text": "其实你那个做下传票里边的生产，嗯，呃，跟这个就是我哪个户应该是那啥，你要是说如果说。"
+  },
+  {
+    "index": 414,
+    "start_time": 1609.71,
+    "end_time": 1618.88,
+    "label": "S05",
+    "text": "你你采的是吉星，比如说三勇的学校采的是吉星，那么三勇有一个就是打传票的时候，他应该有一个单独的结算明细。"
+  },
+  {
+    "index": 415,
+    "start_time": 1619.01,
+    "end_time": 1622.01,
+    "label": "S05",
+    "text": "在这个明细里头可以体现，就是说的从。"
+  },
+  {
+    "index": 416,
+    "start_time": 1622.41,
+    "end_time": 1631.51,
+    "label": "S05",
+    "text": "几月几号到几月几号，我开的这个发票，比如说是五万块钱，那就五万块钱结的是什么时间，可能是说三月一号到。"
+  },
+  {
+    "index": 417,
+    "start_time": 1631.68,
+    "end_time": 1636.31,
+    "label": "S05",
+    "text": "呃，七月十五号这段时间的这个要求你体现出来。"
+  },
+  {
+    "index": 418,
+    "start_time": 1637.58,
+    "end_time": 1639.71,
+    "label": "S05",
+    "text": "你听明白我说的意思了吗？"
+  },
+  {
+    "index": 419,
+    "start_time": 1640.98,
+    "end_time": 1645.18,
+    "label": "S01",
+    "text": "我复述一下，就是说如果这个合同是吉星的。"
+  },
+  {
+    "index": 420,
+    "start_time": 1645.38,
+    "end_time": 1651.81,
+    "label": "S01",
+    "text": "那么所以，所以说他们这个这里边传票对应的这个结算单也要走，也要，也要是吉星的才行，对吧？"
+  },
+  {
+    "index": 421,
+    "start_time": 1652.51,
+    "end_time": 1661.88,
+    "label": "S05",
+    "text": "对，是，是吉星，是也要体现出来，我开的这张发票，结的是哪一段时，哪个时间段的款。"
+  },
+  {
+    "index": 422,
+    "start_time": 1662.61,
+    "end_time": 1663.98,
+    "label": "S05",
+    "text": "这个需要体现出来。"
+  },
+  {
+    "index": 423,
+    "start_time": 1664.88,
+    "end_time": 1666.51,
+    "label": "S01",
+    "text": "嗯，哦。"
+  },
+  {
+    "index": 424,
+    "start_time": 1666.88,
+    "end_time": 1667.81,
+    "label": "S01",
+    "text": "哪一段时间。"
+  },
+  {
+    "index": 425,
+    "start_time": 1667.21,
+    "end_time": 1672.81,
+    "label": "S05",
+    "text": "就我，我说的，比，比如说我这次结算，结算是五万块钱。"
+  },
+  {
+    "index": 426,
+    "start_time": 1672.98,
+    "end_time": 1685.48,
+    "label": "S05",
+    "text": "这五万块钱我采的是，就是单位是三勇的，那这个三勇是从我这五万块钱是给三勇干活的这个明细里体现出来，从哪个时间到哪个时间的，干的活儿。"
+  },
+  {
+    "index": 427,
+    "start_time": 1687.98,
+    "end_time": 1689.21,
+    "label": "S05",
+    "text": "能筛选出来。"
+  },
+  {
+    "index": 428,
+    "start_time": 1692.18,
+    "end_time": 1696.28,
+    "label": "S05",
+    "text": "就是一点，就是这张发票就对应这个干活的这个明细。"
+  },
+  {
+    "index": 429,
+    "start_time": 1697.01,
+    "end_time": 1702.31,
+    "label": "S01",
+    "text": "哦，哦，应该我明细，那我理解的话，比方说，如果是三，三勇下的订单。"
+  },
+  {
+    "index": 430,
+    "start_time": 1702.81,
+    "end_time": 1707.01,
+    "label": "S01",
+    "text": "然后这个活儿的话，传票里边一定要写上是三勇的，对吧？"
+  },
+  {
+    "index": 431,
+    "start_time": 1707.41,
+    "end_time": 1711.71,
+    "label": "S05",
+    "text": "那是一定的，要不然你咋知道，这么多学校咋知道是哪家。"
+  },
+  {
+    "index": 432,
+    "start_time": 1708.81,
+    "end_time": 1709.31,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 433,
+    "start_time": 1711.98,
+    "end_time": 1717.81,
+    "label": "S01",
+    "text": "对，别到时候三勇有五万块钱，然后另外一个学校有五万块，有六万块钱。"
+  },
+  {
+    "index": 434,
+    "start_time": 1718.01,
+    "end_time": 1721.88,
+    "label": "S01",
+    "text": "结果三勇干了六万块钱的活，另外一个学校干了五万块钱的活，这样肯定不行。"
+  },
+  {
+    "index": 435,
+    "start_time": 1723.51,
+    "end_time": 1724.31,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 436,
+    "start_time": 1725.01,
+    "end_time": 1732.11,
+    "label": "S01",
+    "text": "然后我之前听那个夏经理说，就是，就是，就是那个传票，有时候一个传票可能会包含多个订单，是吧？"
+  },
+  {
+    "index": 437,
+    "start_time": 1725.11,
+    "end_time": 1725.61,
+    "label": "S05",
+    "text": "那我。"
+  },
+  {
+    "index": 438,
+    "start_time": 1734.31,
+    "end_time": 1740.71,
+    "label": "S05",
+    "text": "对，他也因为他，他不是说一个学校就，就就就就下一个，下一个订单。"
+  },
+  {
+    "index": 439,
+    "start_time": 1740.98,
+    "end_time": 1741.48,
+    "label": "S01",
+    "text": "对。"
+  },
+  {
+    "index": 440,
+    "start_time": 1741.78,
+    "end_time": 1742.68,
+    "label": "S05",
+    "text": "有的时候。"
+  },
+  {
+    "index": 441,
+    "start_time": 1741.81,
+    "end_time": 1749.08,
+    "label": "S01",
+    "text": "多个订单，一个，一个传票里边多个订单，可能这个多个订单的，对应的学校合同可能是不同的那个采购的公司。"
+  },
+  {
+    "index": 442,
+    "start_time": 1749.11,
+    "end_time": 1753.38,
+    "label": "S01",
+    "text": "有的可能是采购的是吉星的，有的采购的是晶晶的，有这种情况吧？"
+  },
+  {
+    "index": 443,
+    "start_time": 1753.28,
+    "end_time": 1755.21,
+    "label": "S05",
+    "text": "啊，对，对对，有有有有。"
+  },
+  {
+    "index": 444,
+    "start_time": 1755.81,
+    "end_time": 1758.18,
+    "label": "S01",
+    "text": "哦，这种情况的话，后面这个传票。"
+  },
+  {
+    "index": 445,
+    "start_time": 1758.51,
+    "end_time": 1762.98,
+    "label": "S01",
+    "text": "相当于这个传票的那个，干的活，最后开发票的时候要分开开。"
+  },
+  {
+    "index": 446,
+    "start_time": 1763.38,
+    "end_time": 1766.98,
+    "label": "S01",
+    "text": "吉星的，呃，那个什么三勇的给三勇，另外的给另外的是吧？"
+  },
+  {
+    "index": 447,
+    "start_time": 1767.41,
+    "end_time": 1771.41,
+    "label": "S05",
+    "text": "对对对，就是归哪个企业，采哪个企业开。"
+  },
+  {
+    "index": 448,
+    "start_time": 1771.41,
+    "end_time": 1775.51,
+    "label": "S01",
+    "text": "嗯，只是，只是做的时候，传票放在一起了，别的其实都是分开的。"
+  },
+  {
+    "index": 449,
+    "start_time": 1771.78,
+    "end_time": 1772.31,
+    "label": "S05",
+    "text": "发票。"
+  },
+  {
+    "index": 450,
+    "start_time": 1775.01,
+    "end_time": 1778.71,
+    "label": "S05",
+    "text": "对，所有的就是除了就是开发票分开之后。"
+  },
+  {
+    "index": 451,
+    "start_time": 1778.91,
+    "end_time": 1783.88,
+    "label": "S05",
+    "text": "进账分开之后，其余的生产一律就是，都是在一起的。"
+  },
+  {
+    "index": 452,
+    "start_time": 1784.08,
+    "end_time": 1786.71,
+    "label": "S01",
+    "text": "哦，好的好的，我，我理解了。"
+  },
+  {
+    "index": 453,
+    "start_time": 1787.18,
+    "end_time": 1791.08,
+    "label": "S05",
+    "text": "但是就是标注各个学校的，哪个学校干活是哪个学校的。"
+  },
+  {
+    "index": 454,
+    "start_time": 1791.28,
+    "end_time": 1791.91,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 455,
+    "start_time": 1792.68,
+    "end_time": 1793.11,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 456,
+    "start_time": 1794.31,
+    "end_time": 1800.58,
+    "label": "S01",
+    "text": "呃，咱们现在还有一个是那种，呃，有那种复印费，就是那种散客，现，散客的，现金的。"
+  },
+  {
+    "index": 457,
+    "start_time": 1799.68,
+    "end_time": 1804.71,
+    "label": "S05",
+    "text": "对，就是临时的活儿来了，就比如说来有打印，有复印的这种散的。"
+  },
+  {
+    "index": 458,
+    "start_time": 1804.98,
+    "end_time": 1807.98,
+    "label": "S05",
+    "text": "个体的来了，个人，社会的活儿。"
+  },
+  {
+    "index": 459,
+    "start_time": 1808.18,
+    "end_time": 1808.78,
+    "label": "S01",
+    "text": "嗯。"
+  },
+  {
+    "index": 460,
+    "start_time": 1809.28,
+    "end_time": 1813.88,
+    "label": "S01",
+    "text": "对，咱们这种复印费其实是不走传票的，就是后面我们这边记个小本本。"
+  },
+  {
+    "index": 461,
+    "start_time": 1813.28,
+    "end_time": 1815.88,
+    "label": "S05",
+    "text": "走传票，也走传票，也下传票。"
+  },
+  {
+    "index": 462,
+    "start_time": 1815.61,
+    "end_time": 1817.61,
+    "label": "S02",
+    "text": "那么隔段时间我统计一下。"
+  },
+  {
+    "index": 463,
+    "start_time": 1817.88,
+    "end_time": 1820.01,
+    "label": "S05",
+    "text": "隔一段时间就统计。"
+  },
+  {
+    "index": 464,
+    "start_time": 1820.18,
+    "end_time": 1821.71,
+    "label": "S02",
+    "text": "卖废纸直接就写了。"
+  },
+  {
+    "index": 465,
+    "start_time": 1821.58,
+    "end_time": 1826.48,
+    "label": "S05",
+    "text": "完了，然后这种，像这种个体的，我们要写，要。"
+  }
+]

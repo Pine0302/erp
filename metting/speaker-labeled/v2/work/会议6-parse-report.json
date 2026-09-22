@@ -1,0 +1,22 @@
+{
+ "file": "会议6-驻点高老师-asr.txt",
+ "total_chars": 6324,
+ "n_segments": 139,
+ "seg_chars": 3453,
+ "residue_chars": 0,
+ "token_chars": 2871,
+ "check_sum_ok": true,
+ "labels": [
+  "S01",
+  "S02"
+ ],
+ "label_counts": {
+  "S01": 77,
+  "S02": 62
+ },
+ "n_no_start": 0,
+ "n_no_end": 0,
+ "n_empty_body": 0,
+ "n_residues": 0,
+ "residues": []
+}

@@ -1,0 +1,66 @@
+{
+ "会议1": {
+  "file": "会议1-asr.txt",
+  "n_segments_src": 434,
+  "n_segments_out": 434,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议2": {
+  "file": "会议2-asr.txt",
+  "n_segments_src": 461,
+  "n_segments_out": 461,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议3": {
+  "file": "会议3-asr.txt",
+  "n_segments_src": 489,
+  "n_segments_out": 489,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议4": {
+  "file": "会议4-asr.txt",
+  "n_segments_src": 147,
+  "n_segments_out": 147,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议5-part1": {
+  "file": "会议5-part1-asr.txt",
+  "n_segments_src": 385,
+  "n_segments_out": 385,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议5-part2": {
+  "file": "会议5-part2-asr.txt",
+  "n_segments_src": 466,
+  "n_segments_out": 466,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议5-part3": {
+  "file": "会议5-part3-asr.txt",
+  "n_segments_src": 386,
+  "n_segments_out": 386,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ },
+ "会议6": {
+  "file": "会议6-驻点高老师-asr.txt",
+  "n_segments_src": 139,
+  "n_segments_out": 139,
+  "residues_reported": true,
+  "errors": [],
+  "ok": true
+ }
+}

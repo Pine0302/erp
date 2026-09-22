@@ -1,0 +1,28 @@
+{
+ "file": "会议5-part1-asr.txt",
+ "total_chars": 16426,
+ "n_segments": 385,
+ "seg_chars": 8020,
+ "residue_chars": 0,
+ "token_chars": 8406,
+ "check_sum_ok": true,
+ "labels": [
+  "S01",
+  "S02",
+  "S03",
+  "S04",
+  "S05"
+ ],
+ "label_counts": {
+  "S01": 29,
+  "S02": 216,
+  "S03": 49,
+  "S04": 74,
+  "S05": 17
+ },
+ "n_no_start": 0,
+ "n_no_end": 0,
+ "n_empty_body": 0,
+ "n_residues": 0,
+ "residues": []
+}
